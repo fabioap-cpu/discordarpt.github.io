@@ -8,9 +8,8 @@ Originally started off on a test project for learning Functional Components, Hoo
 
 ![layout image](public/app.png)
 
-Live Version http://ericellb.github.io/React-Discord-Clone
+Live Version # http://discordarpt.github.io
 
-API https://github.com/ericellb/React-Discord-API
 
 ### Important
 
