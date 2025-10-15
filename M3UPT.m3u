@@ -5,5 +5,5 @@
 # 📺 TV
 
 #EXTINF:-1 group-title="TV" tvg-id="RTP1.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
-#EXTVLCOPT:http-user-agent=IE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Vitória 64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
 https://planetary.lovecdn.ru/SPT1/index.fmp4.m3u8?token=84c6586f6f39df674d24ad92f0797381b07d04dc-db0b8f17c97707524ff20490d366e7b1-1760568415-1760557615
